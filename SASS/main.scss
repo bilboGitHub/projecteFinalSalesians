@@ -1,0 +1,27 @@
+h1{
+    color: yellowgreen;
+}
+footer{
+    background: yellow;
+    h4 {
+        color: violet;
+        a{
+            color: turquoise;
+        }
+    }
+}
+
+$colorU: black;
+$colorDos: yellow:
+section{
+    background: $colorU;
+    h1{
+        background: $colorDos;
+        h2{
+            background: salmon;
+            p{
+                background: royalblue;
+            }
+        }
+    }
+}
